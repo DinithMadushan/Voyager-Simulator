@@ -41,7 +41,7 @@ The Titan IIIE rocket model was created in Blender as part of the Phase 1 asset 
 - **Role in Simulator:** Used to recreate the liftoff and staging sequence, providing a realistic launch experience before transitioning to deep-space exploration
 - **Status:** Fully modeled and integrated into the Unity scene
 
-![Titan IIIE Rocket Model](images/Titan III Rocket model.png)
+![Titan IIIE Rocket Model](images/Titan%20III%20Rocket%20model.png)
 ---
 
 ### 🔲 Phase 2 — Simulation Coding (Current)
